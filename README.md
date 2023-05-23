@@ -141,6 +141,7 @@ endmodule
 
 
 ## Timing Diagram:
+![Screenshot_20230521_100834](https://github.com/MOHAMEDGOWS/ex1final/assets/117954463/514caeb9-59a0-4586-8bc0-c8a261317fe9)
 
 
 
